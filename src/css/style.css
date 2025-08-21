@@ -265,6 +265,7 @@ body {
   opacity: 0;
   position: relative;
   transition: 0.5s ease-in-out;
+  margin-left: 40px;
 }
 
 .project-bio {
