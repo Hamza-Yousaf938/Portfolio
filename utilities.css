@@ -164,6 +164,11 @@ h2::selection {
   background: url(/public/assets/superapp.png) center center/cover;
 }
 
+/* Project 7 */
+.card:nth-child(6) {
+  background: url(/public/assets/superapp.png) center center/cover;
+}
+
 /* Media Queries */
 @media (max-width: 768px) {
   .header-container {
