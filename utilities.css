@@ -169,6 +169,11 @@ h2::selection {
   background: url(/public/assets/news.png) center center/cover;
 }
 
+/* Project 8 */
+.card:nth-child(8) {
+  background: url(/public/assets/apple.png) center center/cover;
+}
+
 /* Media Queries */
 @media (max-width: 768px) {
   .header-container {
