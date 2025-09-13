@@ -165,8 +165,8 @@ h2::selection {
 }
 
 /* Project 7 */
-.card:nth-child(6) {
-  background: url(/public/assets/superapp.png) center center/cover;
+.card:nth-child(7) {
+  background: url(/public/assets/news.png) center center/cover;
 }
 
 /* Media Queries */
